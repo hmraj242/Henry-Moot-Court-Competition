@@ -12,7 +12,7 @@ The Defence for General Roger Thorn respectfully appears before Pre-Trial Chambe
 
 - **Operation Titan and the illness.** On 10 March 2025, General Thorn led a platoon of Damaran soldiers into the Damaran Gap. Disease halted the mission and five soldiers died. On 19 March, Thorn, himself ill, sent the five healthiest soldiers onward and withdrew the rest to Damaroi, setting fire to the Pallavon bank of the River Targa as they left. The fire was reported as a natural fire and was never investigated. [SAF 11–14]
 - **The treatment.** All 40 returning soldiers contracted an unknown disease with severe, typhoid-like symptoms, and four were placed in induced comas. Conventional treatment was failing: ‘[s]ome of the guys are holding on for their lives … their conditions aren't getting better with the regular stuff’. Dr Nora Loff, head scientist of Damaroi's leading biomedical institute, advised that the drug Jaku ‘could help restore their health’ and was ‘ready for human trials’. Thorn replied: ‘if the Doc says it's good to go, then it can't be wrong’. [SAF 15–17] From 2 April, Dr Loff administered Jaku to every platoon member, including Thorn himself. The conscious soldiers verbally agreed; the four comatose soldiers woke within three days. Dr Loff assured Thorn that the side-effects reported by some soldiers were temporary and recommended a higher dose, which he approved. By 10 April, all 40 soldiers had regained full health, and the injections stopped. [SAF 18–20] The five soldiers who had continued into Pallavon had, as was later established, died in early April. [SAF 53]
-- **The schools.** Hostilities began in June 2025, and Pallavon ordered mass conscription, registering over two million recruits and receiving weapons and trainers from Bhumara by rail. [SAF 24–29] On 5 July, Pallavon's Cabinet decided to repurpose every school larger than two hectares and within one kilometre of the railway ‘as new sites to train recruits and prepare operations’. Twelve of the 20 qualifying schools were converted at once. After Damaroi struck them, five more were evacuated and converted, each strike following confirmation of conversion. [SAF 37–41] On 20 July, the remaining three qualifying schools were dismissed from teaching. Having observed the pattern of conversions, Thorn gave the order to target the remaining qualifying schools and provided strike coordinates. President Veyar asked, ‘Are you sure we should strike them?’. Thorn replied that ‘every school of that size is being converted’, that the grounds had been evacuated, and that the operation should take place at night ‘to minimise risk of harming civilians’. At 1:10 am on 22 July, missiles were launched from Como City. Most were intercepted; two schools were partially damaged and one destroyed. [SAF 42–43]
+- **The schools.** Hostilities began in June 2025, and Pallavon ordered mass conscription, registering over two million recruits and receiving weapons and trainers from Bhumara by rail. [SAF 24–29] On 5 July, Pallavon's Cabinet decided to repurpose every school larger than two hectares and within one kilometre of the railway ‘as new sites to train recruits and prepare operations’. Twelve of the 20 qualifying schools were converted at once. After Damaroi struck them, five more were evacuated and converted, each strike following confirmation of conversion. [SAF 37–41] On 20 July, the remaining three qualifying schools were dismissed from teaching. Having observed the pattern of conversions, Thorn gave the order to target the remaining qualifying schools and provided strike coordinates. President Veyar asked, ‘Are you sure we should strike them?’. Thorn replied that ‘every school of that size is being converted’, that the grounds had been evacuated, and that the operation should take place at night ‘to minimise risk of harming civilians’. At 1:10 am on 22 July, missiles were launched from Como City. Most were intercepted; two schools were partially damaged and the third destroyed, killing cleaning staff employed there. [SAF 42–43]
 
 **SUMMARY OF PLEADINGS**
 
@@ -96,11 +96,18 @@ Article 30 requires that Thorn meant to attack civilian objects or was aware tha
 Thorn's own conduct confirms the absence of any intent to attack civilian objects. He recommended a night strike ‘to minimise risk of harming civilians’, the very precaution that IHL requires in attacks on military objectives.⁹³ If the Prosecution's real complaint is the civilian harm at the third school, that harm arose from an attack on what Thorn believed to be a military objective. It could at most raise a question of excessive incidental harm under Article 8(2)(b)(iv), a crime the Prosecution has not charged.⁹⁴
 
 
-#### 4. Thorn did not order, solicit or induce the attack
+#### 4. Any shortfall in verification is a question of precautions, not the crime charged
 
-Ordering requires a person in a position of authority who uses that authority to instruct another to commit the crime.⁹⁵ The agreed facts' use of the word ‘order’ does not settle the question. The label a narrative gives to a communication is not a finding that the elements of Article 25(3)(b) are met,⁹⁶ and ordering requires proof that the accused used authority over the person who carried out the crime.⁹⁷ Authority over the recipient must at least be reasonably implied from the evidence, and the order must have a direct effect on the commission of the crime.⁹⁸ Ordering is not advice; it means using a subordinate to carry out the crime.⁹⁹ *Affirmanti incumbit probatio*, yet the Prosecution identifies no recipient. The record does not show who launched the missiles, who authorised the launch, what chain of command linked Thorn to the missile force in Como City, or that anyone there was obliged to act on his word.¹⁰⁰ It shows instead that Thorn's formal role was to supply intelligence and planning. The President tasked him to be Damaroi's ‘eyes and ears’ and to supply ‘sound intel and a plan’ for a missile campaign the President himself directed,¹⁰¹ and Thorn's earlier contribution took the form of a ‘recommendation’.¹⁰² The President's question, ‘Are you sure we should strike them?’, confirms that Thorn's word was not self-executing and that the decision to launch remained with the President.¹⁰³ Supplying coordinates is, at most, assistance, a mode not charged; it is not an order.
+The Prosecution will contrast this strike with the earlier ones, which followed confirmation of each conversion.⁹⁵ The comparison does not prove the crime charged. Article 8(2)(b)(ii) punishes intentionally directing an attack against civilian objects; it does not criminalise a failure to verify a target. The duty to verify arises under Additional Protocol I,⁹⁶ but the Rome Statute contains no corresponding war crime, and even Additional Protocol I treats as grave breaches only the wilful attacks it lists, not omissions in precaution.⁹⁷ *Nullum crimen sine lege*: a duty of conduct under IHL cannot be turned into a crime of intentional attack by relabelling it.⁹⁸ At most, a claim that Thorn should have waited longer alleges negligence, and negligence is not intent.⁹⁹
 
-Nor did Thorn solicit or induce the attack. Inducement requires influence that has a direct effect on the commission of the crime.¹⁰⁴ The President was already conducting a missile campaign to sting Pallavon ‘where it hurts’ and had his own reasons to continue it.¹⁰⁵ The record does not show that Thorn's assessment, rather than the President's independent decision, caused the launch, or that Thorn influenced any person who carried it out. The Prosecution has not provided concrete and tangible proof of the mode of liability charged, and Count 2 should not be confirmed.
+In any event, the duty is to do everything *feasible* to verify, meaning what is practicable or practically possible in the circumstances ruling at the time, taking account of humanitarian and military considerations.¹⁰⁰ *Lex non cogit ad impossibilia*: the law does not demand certainty, but a reasonable judgement on the information available.¹⁰¹ Thorn met that standard. The Titans had monitored the converted schools across the country, supplying over 300 images and videos, delivery logs of weapons and uniforms, and records of night-time activity.¹⁰² They had observed that every conversion began with the school's suspension and evacuation, and that step had now occurred at all three schools.¹⁰³ The President raised his doubt and Thorn answered it on that evidence; a commander who weighs a doubt and resolves it on the information before him is verifying, not ignoring, the question.¹⁰⁴ Waiting for further confirmation would have meant waiting until the schools were filled with recruits and weapons. Thorn instead proposed striking evacuated premises at night, the course least likely to harm anyone.¹⁰⁵ That is a precaution taken, not one ignored.
+
+
+#### 5. Thorn did not order, solicit or induce the attack
+
+Ordering requires a person in a position of authority who uses that authority to instruct another to commit the crime.¹⁰⁶ The agreed facts' use of the word ‘order’ does not settle the question. The label a narrative gives to a communication is not a finding that the elements of Article 25(3)(b) are met,¹⁰⁷ and ordering requires proof that the accused used authority over the person who carried out the crime.¹⁰⁸ Authority over the recipient must at least be reasonably implied from the evidence, and the order must have a direct effect on the commission of the crime.¹⁰⁹ Ordering is not advice; it means using a subordinate to carry out the crime.¹¹⁰ *Affirmanti incumbit probatio*, yet the Prosecution identifies no recipient. The record does not show who launched the missiles, who authorised the launch, what chain of command linked Thorn to the missile force in Como City, or that anyone there was obliged to act on his word.¹¹¹ It shows instead that Thorn's formal role was to supply intelligence and planning. The President tasked him to be Damaroi's ‘eyes and ears’ and to supply ‘sound intel and a plan’ for a missile campaign the President himself directed,¹¹² and Thorn's earlier contribution took the form of a ‘recommendation’.¹¹³ The President's question, ‘Are you sure we should strike them?’, confirms that Thorn's word was not self-executing and that the decision to launch remained with the President.¹¹⁴ Supplying coordinates is, at most, assistance, a mode not charged; it is not an order.
+
+Nor did Thorn solicit or induce the attack. Inducement requires influence that has a direct effect on the commission of the crime.¹¹⁵ The President was already conducting a missile campaign to sting Pallavon ‘where it hurts’ and had his own reasons to continue it.¹¹⁶ The record does not show that Thorn's assessment, rather than the President's independent decision, caused the launch, or that Thorn influenced any person who carried it out. The Prosecution has not provided concrete and tangible proof of the mode of liability charged, and Count 2 should not be confirmed.
 
 
 **PRAYER FOR RELIEF**
@@ -208,20 +215,31 @@ Counsel for the Defence
 ⁸⁶ *Hanan v Germany* (Judgment) [GC] ECtHR App No 4871/16 (16 February 2021).  
 ⁸⁷ SAF, paras 37, 39–42.  
 ⁸⁸ Rome Statute, art 30(2)(b).  
-⁸⁹ *Prosecutor v Katanga* (Judgment Pursuant to Article 74 of the Statute) ICC-01/04-01/07-3436-tENG (7 March 2014) [770]–[779]; Donald K Piragoff and Darryl Robinson, ‘Article 30: Mental Element’ in Triffterer and Ambos (n 1) 1122–23 mn 21–22.  
+⁸⁹ *Prosecutor v Katanga* (Judgment Pursuant to Article 74 of the Statute) ICC-01/04-01/07-3436-tENG (7 March 2014) (‘*Katanga* Trial’) [770]–[779]; Donald K Piragoff and Darryl Robinson, ‘Article 30: Mental Element’ in Triffterer and Ambos (n 1) 1122–23 mn 21–22.  
 ⁹⁰ *Bemba* Confirmation (n 42) [360], [363]; *Prosecutor v Lubanga* (Judgment Pursuant to Article 74 of the Statute) ICC-01/04-01/06-2842 (14 March 2012) [1011].  
 ⁹¹ Rome Statute, art 32(1); *Lubanga* Confirmation (n 8) [316].  
 ⁹² Rome Statute, art 32(2); Kevin Jon Heller, ‘Mistake of Legal Element, the Common Law, and Article 32 of the Rome Statute: A Critical Analysis’ (2008) 6 JICJ 419.  
 ⁹³ AP I, art 57(2)(a)(ii); SAF, para 42.  
 ⁹⁴ Rome Statute, art 8(2)(b)(iv); SAF, para 43.  
-⁹⁵ *Prosecutor v Blaškić* (Judgement) IT-95-14-T (3 March 2000) [281].  
-⁹⁶ Rome Statute, art 61(7); *Lubanga* Confirmation (n 8) [39].  
-⁹⁷ *Prosecutor v Kordić and Čerkez* (Judgement) IT-95-14/2-A (17 December 2004) [28].  
-⁹⁸ *Prosecutor v Kordić and Čerkez* (Judgement) IT-95-14/2-T (26 February 2001) [388]; *Prosecutor v Ntaganda* (Decision Pursuant to Article 61(7)(a) and (b) of the Rome Statute on the Charges of the Prosecutor Against Bosco Ntaganda) ICC-01/04-02/06-309 (9 June 2014) (‘*Ntaganda* Confirmation’) [145].  
-⁹⁹ Ambos (n 54) 162–63; *Prosecutor v Galić* (Judgement) IT-98-29-A (30 November 2006) [176].  
-¹⁰⁰ SAF, paras 42–43.  
-¹⁰¹ SAF, paras 34–35.  
-¹⁰² SAF, para 40.  
-¹⁰³ SAF, para 42.  
-¹⁰⁴ *Ntaganda* Confirmation (n 98) [153]; *Prosecutor v Blé Goudé* (Decision on the Confirmation of Charges) ICC-02/11-02/11-186 (11 December 2014) [159]–[161].  
-¹⁰⁵ SAF, paras 34–35.  
+⁹⁵ SAF, paras 41–42.  
+⁹⁶ AP I, art 57(2)(a)(i); CIHL (n 62) r 16.  
+⁹⁷ Rome Statute, art 8(2)(b); AP I, art 85(3).  
+⁹⁸ Rome Statute, arts 22(1)–(2).  
+⁹⁹ Rome Statute, art 30(1); *Katanga* Trial (n 89) [770]–[779].  
+¹⁰⁰ United Kingdom, Declaration upon Ratification of AP I (n 82) para (b); Protocol on Prohibitions or Restrictions on the Use of Mines, Booby-Traps and Other Devices as amended on 3 May 1996 (adopted 3 May 1996, entered into force 3 December 1998) 2048 UNTS 93 (‘Amended Protocol II’) art 3(10).  
+¹⁰¹ *Hostages* Case (n 84) 1296–97; *Galić* Trial (n 68) [58].  
+¹⁰² SAF, paras 38–39.  
+¹⁰³ SAF, paras 41–42.  
+¹⁰⁴ SAF, para 42.  
+¹⁰⁵ AP I, art 57(2)(a)(ii); SAF, para 42.  
+¹⁰⁶ *Prosecutor v Blaškić* (Judgement) IT-95-14-T (3 March 2000) [281].  
+¹⁰⁷ Rome Statute, art 61(7); *Lubanga* Confirmation (n 8) [39].  
+¹⁰⁸ *Prosecutor v Kordić and Čerkez* (Judgement) IT-95-14/2-A (17 December 2004) [28].  
+¹⁰⁹ *Prosecutor v Kordić and Čerkez* (Judgement) IT-95-14/2-T (26 February 2001) [388]; *Prosecutor v Ntaganda* (Decision Pursuant to Article 61(7)(a) and (b) of the Rome Statute on the Charges of the Prosecutor Against Bosco Ntaganda) ICC-01/04-02/06-309 (9 June 2014) (‘*Ntaganda* Confirmation’) [145].  
+¹¹⁰ Ambos (n 54) 162–63; *Prosecutor v Galić* (Judgement) IT-98-29-A (30 November 2006) [176].  
+¹¹¹ SAF, paras 42–43.  
+¹¹² SAF, paras 34–35.  
+¹¹³ SAF, para 40.  
+¹¹⁴ SAF, para 42.  
+¹¹⁵ *Ntaganda* Confirmation (n 109) [153]; *Prosecutor v Blé Goudé* (Decision on the Confirmation of Charges) ICC-02/11-02/11-186 (11 December 2014) [159]–[161].  
+¹¹⁶ SAF, paras 34–35.  
