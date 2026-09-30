@@ -181,7 +181,7 @@ Counsel for the Defence
 ⁵⁹ *Bemba* Confirmation (n 42) [360].  
 ⁶⁰ *United States v Milch* (Judgment) (1947) II TWC 355.  
 ⁶¹ Rome Statute, art 32(1); SAF, para 19.  
-⁶² AP I, art 52(2); CIHL Jean-Marie Henckaerts and Louise Doswald-Beck, *Customary International Humanitarian Law* (CUP 2005) vol 1 (‘CIHL’) r 8.  
+⁶² AP I, art 52(2); Jean-Marie Henckaerts and Louise Doswald-Beck, *Customary International Humanitarian Law* (CUP 2005) vol 1 (‘CIHL’) r 8.  
 ⁶³ VCLT, art 31(1).  
 ⁶⁴ Yves Sandoz, Christophe Swinarski and Bruno Zimmermann (eds), *Commentary on the Additional Protocols of 8 June 1977 to the Geneva Conventions of 12 August 1949* (ICRC/Martinus Nijhoff 1987) (‘AP Commentary’) para 2022; Yoram Dinstein, ‘Legitimate Military Objectives under the Current Jus in Bello’ (2001) 31 Isr YB Hum Rts 1.  
 ⁶⁵ *Western Front, Aerial Bombardment and Related Claims – Eritrea's Claims 1, 3, 5, 9–13, 14, 21, 25 & 26 (Eritrea v Ethiopia)* (Partial Award) Eritrea–Ethiopia Claims Commission (19 December 2005) (‘EECC Partial Award’) [118]–[120].  
