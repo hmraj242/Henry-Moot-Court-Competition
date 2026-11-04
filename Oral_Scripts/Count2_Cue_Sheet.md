@@ -12,8 +12,10 @@
 4. **No use:** no positive action (SAF ¶42); Thorn: "Even if they are not being used now"; the twelve had recruits and weapons, these three nothing.
 5. **Dismissal of pupils:** NO, Art 58 precaution, near railway, 17 struck, no military step.
 6. **Location:** Cabinet chose schools near railway (SAF ¶37): suitability, not contribution. (No hospital/stadium example: teacher says it is not a legal argument.)
-7. **Purpose:** four routes (nature no, location no, use no) so only purpose left. Purpose = future use; contribution must be effective, ICRC: actual situation not abstract, so concrete and tied to this school. Twenty-school category; twelve converted and in use (military, conceded); five only after strikes; A pattern suggests what Pallavon might do; it does not show what Pallavon had decided; Thorn struck only after confirmation before (SAF ¶41). Last three: decisions not yet made = possibility, not purpose. Do not use "any building" argument; do not state Hirgigo facts (principle only).
-   - If asked about "fit for purpose" (SAF ¶37): Cabinet did intend to use schools of that type; phrase describes features; a plan for a category is not a concrete purpose for each school.
+7. **Purpose (corrected):** no use, so only purpose is left. Purpose = intended future use. The intention must be concrete, specific to the school, and real at the time of the attack (Art 52(2) "circumstances ruling at the time"; ICRC Commentary: actual situation, not abstract). Facts: Cabinet decision was general (SAF ¶37); twelve converted and in use (conceded military); five only after strikes (¶41); for the last three NO POSITIVE ACTION (¶42), so whether they would be used depended on steps not yet taken. A pattern suggests what Pallavon might do; it does not show what it had decided; Thorn struck only after confirmation before (¶41). Possibility, not purpose.
+   - Say "no positive action" and "steps not yet taken". Never say "no decision".
+   - If asked about "fit for purpose" (¶37): the Cabinet did intend to use schools of that type; the phrase describes features; a general decision is not a concrete purpose for each school.
+   - Check before the moot: wording of the test against Dinstein p 100 / Dörmann (memorial n 92).
 8. **Advantage:** advantage lies in the future, not "in the circumstances ruling at the time".
 
 Next: 9 the attack (SAF ¶43), 10 armed conflict, 11 intent, 12 ordering (recommendation became order), 13 awareness (abandoned practice), 14 inducing.
