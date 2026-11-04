@@ -13,6 +13,7 @@
 5. **Dismissal of pupils:** NO, Art 58 precaution, near railway, 17 struck, no military step.
 6. **Location:** Cabinet chose schools near railway (SAF ¶37): suitability, not contribution. (No hospital/stadium example: teacher says it is not a legal argument.)
 7. **Purpose (corrected):** no use, so only purpose is left. Purpose = intended future use. The intention must be concrete, specific to the school, and real at the time of the attack (Art 52(2) "circumstances ruling at the time"; ICRC Commentary: actual situation, not abstract). Facts: Cabinet decision was general (SAF ¶37); twelve converted and in use (conceded military); five only after strikes (¶41); for the last three NO POSITIVE ACTION (¶42), so whether they would be used depended on steps not yet taken. A pattern suggests what Pallavon might do; it does not show what it had decided; Thorn struck only after confirmation before (¶41). Possibility, not purpose.
+   - Pattern (SAF ¶41): evacuated, then converted; strikes only after conversion confirmed. The last three: evacuated (¶42) but no positive action, so evacuation is NOT the same as conversion; step one only.
    - Say "no positive action" and "steps not yet taken". Never say "no decision".
    - If asked about "fit for purpose" (¶37): the Cabinet did intend to use schools of that type; the phrase describes features; a general decision is not a concrete purpose for each school.
    - Check before the moot: wording of the test against Dinstein p 100 / Dörmann (memorial n 92).
